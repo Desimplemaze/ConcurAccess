@@ -46,9 +46,9 @@ import com.concur.classes.ReportSummary;
  */
 public class ConcurAccessServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	private static final String userName = "chon.sam@gemini-systems.com";
-	private static final String password = "concurbluemix";
-	private static final String consumerKey = "iIoHSuWNHBwmN4wJQ146ZQ";
+	private static final String userName = ""; // insert username for concur
+	private static final String password = ""; // insert password
+	private static final String consumerKey = ""; // inset consumer key
 
 	/**
 	 * @see HttpServlet#HttpServlet()
