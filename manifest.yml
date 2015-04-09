@@ -1,0 +1,10 @@
+---
+applications:
+- name: FromRadTest
+  memory: 512M
+  host: FromRadTest
+  domain: mybluemix.net
+  env: {
+    }
+  services: {
+    }
